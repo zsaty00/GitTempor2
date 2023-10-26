@@ -3,7 +3,7 @@ public class MyStringRevers {
         String str = "Codewise";
 
         for ( char each: str.toCharArray() ){
-            System.out.println(each);
+            System.out.println("1 " + each);
         }
     }
 }
